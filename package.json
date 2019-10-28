@@ -1,0 +1,25 @@
+{
+  "name": "lee_a_hw4",
+  "version": "1.0.0",
+  "description": "Roku Audio Video App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidanleee/Lee_A_HW4.git"
+  },
+  "author": "Aidan Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidanleee/Lee_A_HW4/issues"
+  },
+  "homepage": "https://github.com/aidanleee/Lee_A_HW4#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
